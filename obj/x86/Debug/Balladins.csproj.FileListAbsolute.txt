@@ -1,0 +1,28 @@
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Project1\Balladins\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Project1\Balladins\obj\x86\Debug\Balladins.Properties.Resources.resources
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Project1\Balladins\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Project1\Balladins\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Project1\Balladins\bin\Debug\Balladins.exe
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Project1\Balladins\bin\Debug\Balladins.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Project1\Balladins\obj\x86\Debug\Balladins.FormAccueil.resources
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Project1\Balladins\obj\x86\Debug\Balladins.FormConnexion.resources
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Project1\Balladins\obj\x86\Debug\Balladins.FormMesChambres.resources
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Project1\Balladins\obj\x86\Debug\Balladins.FormReservation.resources
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Project1\Balladins\obj\x86\Debug\Balladins.exe
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Project1\Balladins\obj\x86\Debug\Balladins.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Project1\Balladins\obj\x86\Debug\Balladins.FormMonHotel.resources
+C:\Users\Administrateur\Desktop\PPE3\Balladins\obj\x86\Debug\Balladins.exe
+C:\Users\Administrateur\Desktop\PPE3\Balladins\obj\x86\Debug\Balladins.pdb
+C:\Users\Administrateur\Desktop\PPE3\Balladins\bin\Debug\Balladins.exe
+C:\Users\Administrateur\Desktop\PPE3\Balladins\bin\Debug\Balladins.pdb
+C:\Users\Administrateur\Desktop\PPE3\Balladins\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\PPE3\Balladins\obj\x86\Debug\Balladins.FormAccueil.resources
+C:\Users\Administrateur\Desktop\PPE3\Balladins\obj\x86\Debug\Balladins.FormConnexion.resources
+C:\Users\Administrateur\Desktop\PPE3\Balladins\obj\x86\Debug\Balladins.FormReservation.resources
+C:\Users\Administrateur\Desktop\PPE3\Balladins\obj\x86\Debug\Balladins.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\PPE3\Balladins\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrateur\Desktop\PPE3\Balladins\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrateur\Desktop\PPE3\Balladins\obj\x86\Debug\Balladins.FormHotel.resources
+C:\Users\Administrateur\Desktop\PPE3\Balladins\obj\x86\Debug\Balladins.FormShowReservation.resources
+C:\Users\Administrateur\Desktop\PPE3\Balladins\obj\x86\Debug\Balladins.FormChambre.resources
+C:\Users\Administrateur\Desktop\PPE3\Balladins\obj\x86\Debug\Balladins.FormAjoutReservation.resources
